@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/ShaanCoding/ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/adyoblu/SantaClausApp">
+    <img src="images/craciun.jpg" alt="craciun" width="80" height="80">
   </a>
 
   <h3 align="center">SantaClausApp</h3>
@@ -86,4 +86,4 @@ C++
 
 ## Authors
 
-* **Oblu Adrian** - *Student* - [Oblu Adrian](https://github.com/adyoblu) - **
+* **Oblu Adrian** - *Student* - [Oblu Adrian](https://github.com/adyoblu)

@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/adyoblu/SantaClausApp">
-    <img src="images/craciun.jpg" alt="craciun" width="80" height="80">
+    <img src="craciun.jpg" alt="craciun" width="80" height="80">
   </a>
 
   <h3 align="center">SantaClausApp</h3>

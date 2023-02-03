@@ -86,4 +86,4 @@ C++
 
 ## Authors
 
-* **Oblu Adrian** - *Student* - [Oblu Adrian](https://github.com/adyoblu)
+* **Oblu Adrian** - *Student* - [profile](https://github.com/adyoblu)

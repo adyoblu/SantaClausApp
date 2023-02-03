@@ -1,0 +1,10 @@
+1 masinuta alba 1 2 1 2 
+2 robotel roz 0 0 
+3 robot roz 1 0 
+4 tablou galbel 0 0 
+5 jucarie_noua albastru 1 1 2 
+6 alptop negru 0 1 0 
+7 ad asd 1 2 1 2 
+8 jucarie alb 0 2 1 2 
+9 asd a 0 2 1 2 
+10 asda galben 0 2 1 2 

@@ -1,0 +1,9 @@
+1 Bucuresti 
+13 Septembrie 
+5
+2 Bucuresti 
+Tudor Vianu 
+12
+3 Ploiesti
+Barbu Vacarescu
+123

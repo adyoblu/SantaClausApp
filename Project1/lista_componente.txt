@@ -1,0 +1,5 @@
+1 roata 30x30 2 uz mediu anotimp iarna 
+2 motor 20x30 0 
+3 robot 2x2 1 uz extern 
+4 papusa 10x10 3 destinat fetite par mare greutate usor 
+5 nou 1x4 3 uz extern nou da cheie nu 
